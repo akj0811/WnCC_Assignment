@@ -1,2 +1,3 @@
 # WnCC_Assignment
-It contains my solution to the coding task provided by WnCC as part of the selection process.
+
+This repository contains my submission for the tasks released by WnCC, IITB as part of their recruitment drive in 2020.
